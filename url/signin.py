@@ -3,8 +3,8 @@
 import urllib.request
 import json
 
-#定义要爬取的微博大V的微博ID
-id='3753643435'
+#定义要爬取的微博ID
+id='uid'
 
 #设置代理IP
 proxy_addr="180.121.132.124:808"
